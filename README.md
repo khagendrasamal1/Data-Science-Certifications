@@ -19,7 +19,7 @@ Here you will find certificates related to:
 4. Microsoft Power BI Data Analyst  
    [View Certificate](./Microsoft-PL-300-Exam-Preparation-and-Practice.pdf)
 
-5. Data Analysis with Python by IBM
+5. Data Analysis with Python by IBM   
    [View Certificate](./data-analysis-with-python-IBM.pdf)
 
 ## 🔗 Useful Links
