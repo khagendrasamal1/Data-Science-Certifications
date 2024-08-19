@@ -8,16 +8,19 @@ This repository contains all my certification courses in data science and data a
 
 Here you will find certificates related to:
 1. Data Science Foundation 101 by IBM  
-   [View Certificate](./Data Science Foundation 1 crtfct.pdf)
+   [View Certificate](./DataScience-101.pdf)
    
 2. Python for Data Science - NPTEL  
    [View Certificate](./NPTEL23CS99S3516011910066404.pdf)
    
 3. Data Science: Natural Language Processing (NLP)  
-   [View Certificate](./udemy nlp.pdf)
+   [View Certificate](./udemy-nlp.pdf)
    
 4. Microsoft Power BI Data Analyst  
-   [View Certificate](./Microsoft PL-300 Exam Preparation and Practice.pdf)
+   [View Certificate](./Microsoft-PL-300-Exam-Preparation-and-Practice.pdf)
+
+5. Data Analysis with Python by IBM
+   [View Certificate](./data-analysis-with-python-IBM.pdf)
 
 ## 🔗 Useful Links
 
