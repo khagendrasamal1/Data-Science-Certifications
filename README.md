@@ -2,15 +2,22 @@
 
 Welcome to my Data Science Certifications repository! 🎓
 
-This repository contains all the certification courses I have done regarding Data Science and Data Analysis. Each certification reflects my skills and achievements in various areas of data science.
+This repository contains all my certification courses in data science and data analysis. Each certification reflects my skills and achievements in various areas of data science.
 
 ## 📜 Certifications
 
 Here you will find certificates related to:
-1. Intro to Programming
-<img src="./Khagendra Samal - Intro to Programming.png" alt="50-Day LeetCode Badge" width="500"/>
-2. Python
-<img src="./Khagendra Samal - Python.png" alt="50-Day LeetCode Badge" width="500"/>
+1. Data Science Foundation 101 by IBM  
+   [View Certificate](./Data Science Foundation 1 crtfct.pdf)
+   
+2. Python for Data Science - NPTEL  
+   [View Certificate](./NPTEL23CS99S3516011910066404.pdf)
+   
+3. Data Science: Natural Language Processing (NLP)  
+   [View Certificate](./udemy nlp.pdf)
+   
+4. Microsoft Power BI Data Analyst  
+   [View Certificate](./Microsoft PL-300 Exam Preparation and Practice.pdf)
 
 ## 🔗 Useful Links
 
